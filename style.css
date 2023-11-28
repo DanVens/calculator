@@ -11,7 +11,7 @@ body {
     border: 2px solid #333;
     border-radius: 8px;
     overflow: hidden;
-    width: 300px;
+    width: 400px; /* Adjust the width as needed */
     background-color: #fff;
 }
 
